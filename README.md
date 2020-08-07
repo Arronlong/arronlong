@@ -4,25 +4,15 @@ I am just a developer and I am glad to meet you!
 
 ![Arronlong's github stats](https://github-readme-stats.vercel.app/api?username=Arronlong&&show_icons=true&&title_color=1abc9c&&icon_color=1abc9c)
 
-<!--
-### 📝 Worked language
-
-- ✅ JavaScript / TypeScript / ...
-- ✅ React Native / Flutter / UNI-App / Tora / ...
-- ✅ Vue.js / React.js / ...
-- ✅ Node.js / PHP / ...
--->
-### 📮 Contact Me
-
-- [Email - cclsuperstar@126.com](mailto:cclsuperstar@126.com)
-
-<!--
-！- [Twitter - @JaxsonWangChina](https://twitter.com/JaxsonWangChina) 
--->
 
 ### 🤪 Other
 
 [📌 My Blog - 龙轩的博客](https://arronlong.com/)
+
+
+<details>
+
+<summary>Wakatime 统计信息</summary>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-76059%20Lines%20of%20code-blue)
@@ -54,10 +44,20 @@ JavaScript   2 repos        ████████░░░░░░░░░�
 Python       1 repos        ████░░░░░░░░░░░░░░░░░░░░░   16.67%
 
 ```
-
-
-
 <!--END_SECTION:waka-->
+
+</details>
+
+<details>
+
+<summary>联系我</summary>
+
+- 邮箱：cclsuperstar@126.com
+- 微信：longxuan100 (👇扫一扫更方便👇)
+
+![](https://cdn.jsdelivr.net/gh/Arronlong/cdn/blogImg/20200807150643.png)
+
+</details>
 
 <p align="center"> 
   Visitor count<br>
