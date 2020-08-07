@@ -1,6 +1,6 @@
 # 👋 Hey!
 
-I am just a web front-end developer and I am glad to meet you!
+I am just an interesting developer and I am glad to meet you!
 
 ![Arronlong's github stats](https://github-readme-stats.vercel.app/api?username=Arronlong&&show_icons=true&&title_color=1abc9c&&icon_color=1abc9c)
 
