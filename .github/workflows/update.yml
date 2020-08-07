@@ -1,6 +1,8 @@
 name: Update stats
 
 on:
+  push:
+    branches: [ master ]
   schedule:
     # Runs at 00:05am CST
     - cron: '5 8 * * *'
