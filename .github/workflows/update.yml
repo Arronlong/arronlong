@@ -1,6 +1,8 @@
 name: Update stats
 
 on:
+  push:
+    branches: [ master ]
   schedule:
     # Runs at 00:05am CST
     - cron: '5 8 * * *'
@@ -18,23 +20,23 @@ jobs:
           # 目前为止的代码行
           SHOW_LINES_OF_CODE: True
           # 提交统计信息
-          SHOW_COMMIT: True          
+          SHOW_COMMIT: True
           # 您使用的编码语言
           SHOW_LANGUAGE: True
-          # 不同年份的不同季度中编写的代码行
-          SHOW_LOC_CHART: True
-          # 用户的简短有趣事实信息
-          SHOW_SHORT_INFO: True
           
+          # 不同年份的不同季度中编写的代码行
+          SHOW_LOC_CHART: False
+          # 用户的简短有趣事实信息
+          SHOW_SHORT_INFO: False
           # 操作系统详细信息
-          SHOW_OS: True
+          SHOW_OS: False
           # 已处理的项目
-          SHOW_PROJECTS: True
+          SHOW_PROJECTS: False
           # “个人档案”浏览数
-          SHOW_PROFILE_VIEWS: True
+          SHOW_PROFILE_VIEWS: False
           # 代码编辑器列表
-          SHOW_EDITORS: True
+          SHOW_EDITORS: False
           # 您所在的时区
-          SHOW_TIMEZONE: True
+          SHOW_TIMEZONE: False
           # 周一~周日的提交数
-          SHOW_DAYS_OF_WEEK: True
+          SHOW_DAYS_OF_WEEK: False
