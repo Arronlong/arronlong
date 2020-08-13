@@ -15,7 +15,7 @@ I am just a developer and I am glad to meet you!
 <summary>Wakatime 统计信息</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-76059%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-76575%20Lines%20of%20code-blue)
 
 **I'm an early 🐤** 
 
