@@ -15,9 +15,9 @@ I am just a developer and I am glad to meet you!
 <summary>Wakatime 统计信息</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-76059%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-76579%20Lines%20of%20code-blue)
 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    16 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
@@ -28,15 +28,15 @@ I am just a developer and I am glad to meet you!
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Languages: 
-No Activity tracked this Week
+No Activity Tracked This Week
 
 ```
 
-**I mostly code in Java** 
+**I Mostly Code in Java** 
 
 ```text
 Java                     3 repos             ████████████░░░░░░░░░░░░░   50.0% 
