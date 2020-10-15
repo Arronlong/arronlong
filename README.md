@@ -41,7 +41,7 @@ No Activity Tracked This Week
 ```text
 Java                     3 repos             ████████████░░░░░░░░░░░░░   50.0% 
 JavaScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-Python                   1 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
 
 ```
 
