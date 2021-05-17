@@ -2,8 +2,9 @@
 
 I am just a developer and I am glad to meet you!
 
-![Arronlong's github stats](https://github-readme-stats.vercel.app/api?username=Arronlong&&show_icons=true&&title_color=1abc9c&&icon_color=1abc9c)
+![Arronlong's github stats](https://github-readme-stats.vercel.app/api?username=Arronlong&show_icons=true&theme=tokyonight&locale=en&count_private=true)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arronlong&theme=highcontrast" alt="mcseekeri" /></p>
 
 ### 💷 Blog
 
