@@ -8,7 +8,7 @@ I am just a developer and I am glad to meet you!
 
 ### 💷 Blog
 
-[📌 My Blog - 龙轩的博客](https://arronlong.com/)
+[📌 My Blog - 龙轩的博客](https://arronlong.netlify.app)
 
 
 <details>
